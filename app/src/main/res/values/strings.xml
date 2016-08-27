@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="enable_permission">Please enable location permission from app info.</string>
+    <string name="play_services_error">Unable to connect to play services</string>
+    <string name="play_service_disconnected">Disconnected from play service</string>
+    <string name="search">Search</string>
+    <string name="message_enable_location">Please check if GPS is turned on.</string>
+    <string name="error_getting_location">unable to get location</string>
+    <string name="weather_data_error">Unable to get weather data</string>
+    <string name="network_error">Unable to get weather data! please check internet connectivity.</string>
+    <string name="unknown_error">Unknown error</string>
+</resources>
